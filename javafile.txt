@@ -3,4 +3,6 @@ class  Trial
 
 int a;
 
+int b;
+
 }
